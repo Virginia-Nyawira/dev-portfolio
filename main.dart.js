@@ -70237,7 +70237,7 @@ I(a){return A.oJ(new A.V9(),B.P,new A.aE(this.c,this.d,t._),t.i)}}
 A.V9.prototype={
 $3(a,b,c){var s=null,r=t.w,q=A.aG(a,B.p,r).w.a.a<=700?" ":""
 r=!(A.aG(a,B.p,r).w.a.a<=700)?"\n":""
-return A.cp("I'm an Electrical & Telecommunication graduate Engineer.\nAlso a dev capable of creating excellent mobile apps,\nhandling"+q+" every step from "+r+"concept to deployment.",5,B.az,A.rH(s,s,B.eX,s,s,s,s,s,s,s,s,b,s,s,s,s,s,!0,s,s,s,s,s,s,s,2))},
+return A.cp("I'm a Mobile and Web Application Developer\nPassionate about crafting sleek and engaging mobile and web experiences.\nCapable of creating excellent mobile apps,handling"+q+" every step \nfrom "+r+"concept to deployment.",s,B.az,A.rH(s,s,B.eX,s,s,s,s,s,s,s,s,b,s,s,s,s,s,!0,s,s,s,s,s,s,s,1.5))},
 $S:77}
 A.Fy.prototype={
 I(a){var s=null,r=A.cA(20),q=A.a([B.BY,B.ck],t.Y)
